@@ -1,2 +1,2 @@
 # Megha-Singh-eShoppingStore
-eShoppingStore
+This project is on eShoppingStore. 
